@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6851" started-at="2017-11-21T06:40:33Z" finished-at="2017-11-21T06:40:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6851" started-at="2017-11-21T06:40:33Z" finished-at="2017-11-21T06:40:40Z">
+      <class name="tests.GoogleSearchHeadlessTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.GoogleSearchHeadlessTest@18be83e4]" name="beforeTest" is-config="true" duration-ms="9" started-at="2017-11-21T01:40:33Z" finished-at="2017-11-21T01:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.GoogleSearchHeadlessTest@18be83e4]" name="setup" is-config="true" duration-ms="5063" started-at="2017-11-21T01:40:33Z" finished-at="2017-11-21T01:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GoogleSearch()[pri:0, instance:tests.GoogleSearchHeadlessTest@18be83e4]" name="GoogleSearch" duration-ms="1190" started-at="2017-11-21T01:40:38Z" finished-at="2017-11-21T01:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.GoogleSearchHeadlessTest@18be83e4]" name="tearDown" is-config="true" duration-ms="567" started-at="2017-11-21T01:40:40Z" finished-at="2017-11-21T01:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.GoogleSearchHeadlessTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

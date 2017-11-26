@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="6635" started-at="2017-11-21T06:41:15Z" finished-at="2017-11-21T06:41:22Z">
+    <groups>
+    </groups>
+    <test name="order" duration-ms="6635" started-at="2017-11-21T06:41:15Z" finished-at="2017-11-21T06:41:22Z">
+      <class name="tests.GoogleSearchHeadlessTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.GoogleSearchHeadlessTest@7a0ac6e3]" name="beforeTest" is-config="true" duration-ms="10" started-at="2017-11-21T01:41:15Z" finished-at="2017-11-21T01:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.GoogleSearchTest@71be98f5]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-11-21T01:41:15Z" finished-at="2017-11-21T01:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.GoogleSearchHeadlessTest@7a0ac6e3]" name="setup" is-config="true" duration-ms="5035" started-at="2017-11-21T01:41:15Z" finished-at="2017-11-21T01:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GoogleSearch()[pri:0, instance:tests.GoogleSearchHeadlessTest@7a0ac6e3]" name="GoogleSearch" duration-ms="992" started-at="2017-11-21T01:41:20Z" finished-at="2017-11-21T01:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.GoogleSearchHeadlessTest@7a0ac6e3]" name="tearDown" is-config="true" duration-ms="573" started-at="2017-11-21T01:41:21Z" finished-at="2017-11-21T01:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.GoogleSearchHeadlessTest -->
+    </test> <!-- order -->
+  </suite> <!-- TestAll -->
+</testng-results>
